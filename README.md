@@ -5,6 +5,7 @@ Nesse desafio, você vai ter que criar uma API REST para um sistema de sorteios
 Nesse app você vai criar uma RESTful API, aonde os usuarios podem se registrar com um nome e email e participar de sorteios.
 
 ### Regras de negócio a serem implementadas
+* deve ser implementado em elixir
 * usuários não devem poder entrar em sorteios após a data do sorteio
 * cada usuário só pode participar uma unica vez do sorteio
 * deve-se considerar que devido a api ser publica, pode ser que tenhamos muitos sorteios sendo criados concorrentementes
